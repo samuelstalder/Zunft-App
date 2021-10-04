@@ -12,3 +12,6 @@ A multi-platform application for Zurich's guilds and societies
 * [**Joel Plambeck**](https://github.zhaw.ch/plambjoe)
 * [**Samuel Stalder**](https://github.zhaw.ch/staldsam)
 * [**Omar Shakir**](https://github.zhaw.ch/shakioma)
+
+## License
+This project is licensed under the ZHAW License - see ZHAW for details.
